@@ -1,6 +1,4 @@
-<div>
-    <img src="[https://imgur.com/a/deICiTN](https://imgur.com/jNUEBKg)" width=100 />
-</div>
+
   <h1>
     Hola!
     soy Facundo Vera
