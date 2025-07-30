@@ -8,22 +8,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="mailto:alishandev@proton.m">
-    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
-  <a href="https://t.me/al3shan">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://al3sha9.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
-  </a>
-  <a href="https://twitter.com/alishxn_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<a href="facundovera.dev@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/ferdiozer](https://www.linkedin.com/in/facundo-vera-175101378/)"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 </div>
 
 <div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Facundo-Vera&style=flat-square&color=blue" alt="Profiel Views"/>
 </div>
 
 
