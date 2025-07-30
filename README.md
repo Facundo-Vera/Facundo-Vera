@@ -35,9 +35,15 @@ Hola, soy Facundo Vera y actualmente estoy estudiando desarrollo web en RollingC
 ## :fire: Mis estadísticas :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-vera&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Facundo-vera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Facundo-vera&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Facundo-vera&theme=dark&hide_border=false)<br/>
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-vera&theme=dark&hide_border=false&layout=compact)
+
 
 
 
