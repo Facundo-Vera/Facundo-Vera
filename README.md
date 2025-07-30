@@ -8,7 +8,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[mailto:facundovera.dev@gmail.com](https://mail.google.com/mail/u/2/#inbox)">
+  <a href="mailto:facundovera.dev@gmail.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/facundo-vera-175101378/">
