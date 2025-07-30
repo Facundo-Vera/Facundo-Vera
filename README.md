@@ -8,10 +8,14 @@
 </div>
 
 <div id="badges" align="center">
-<a href="facundovera.dev@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/ferdiozer](https://www.linkedin.com/in/facundo-vera-175101378/)"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+  <a href="mailto:facundovera.dev@gmail.com">
+    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/facundo-vera-175101378/">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
+
 
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=Facundo-Vera&style=flat-square&color=blue" alt="Profiel Views"/>
