@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-vera-175101378)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:facundovera.dev@gmail.com?subject=Hola%20Facundo%20desde%20GitHub&body=Hola%20Facundo%2C%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa...)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/facundo.vera.dev/)
+
 
 
 <div align="center">
