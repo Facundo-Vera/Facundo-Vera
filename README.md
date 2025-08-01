@@ -1,46 +1,41 @@
 <div >
-  <h1 >
-    Hola!
+  <h1  align="center">
+    Hola,
     soy Facundo Vera
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
   </h1>
 </div>
 
-<div id="badges" align="center">
-  <a href="mailto:facundovera.dev@gmail.com">
-    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/facundo-vera-175101378/">
-    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
 
 
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Facundo-Vera&style=flat-square&color=blue" alt="Profiel Views"/>
-</div>
+
+
 
 
 ## :man_technologist: Sobre mí:
 Hola, soy Facundo Vera y actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro en proceso de aprendizaje y mejorando mis habilidades en tecnologías como HTML, CSS y JavaScript.
 ## :hammer_and_wrench: Lenguajes:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-</div>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
  
 
   
-## :fire: Mis estadísticas :
+### ⚙️ &nbsp;Mis estadisticas
 
 
-<a href="https://github.com/Facundo-Vera">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Vera&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/Facundo-Vera">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Facundo-Vera&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Facundo-Vera&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" />
+  <br>
+</div>
 
 <br/>
 <br/>
