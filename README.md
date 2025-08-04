@@ -20,7 +20,7 @@
 
 
 ## :man_technologist: Sobre mí:
-Hola, soy Facundo Vera y actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro en proceso de aprendizaje y mejorando mis habilidades en tecnologías como HTML, CSS y JavaScript.
+Hola, soy Facundo Vera y actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro en proceso de aprendizaje y mejorando mis habilidades en tecnologías como HTML y CSS.
 ## :hammer_and_wrench: Lenguajes:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
