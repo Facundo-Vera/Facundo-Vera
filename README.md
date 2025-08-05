@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/Facundo-Vera/Facundo-Vera/blob/main/banner-github.jpg" width="100%" height="50%" />
+  <img src="https://github.com/Facundo-Vera/Facundo-Vera/blob/main/foto-github2.png" width="100%" height="50%" />
 </div>
 
 
