@@ -1,51 +1,58 @@
-<div >
-  <h1  align="center">
-    Hola,
-    soy Facundo Vera
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
-  </h1>
-</div>
+<h1 align="center"> ¡Hola! Soy Facundo Vera 👨‍💻</h1>
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-vera-175101378)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:facundovera.dev@gmail.com?subject=Hola%20Facundo%20desde%20GitHub&body=Hola%20Facundo%2C%20vi%20tu%20perfil%20en%20GitHub%20y%20me%20gustar%C3%ADa...)
+<p align="center">
+  <img src="./foto-github2.png" alt="Imagen estilo hacker" width="80%">
+</p>
 
+---
 
+## 🧠 Sobre mí
 
-<div align="center">
-  <img src="https://github.com/Facundo-Vera/Facundo-Vera/blob/main/foto-github2.png" width="100%" height="50%" />
-</div>
+Actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro en proceso de aprendizaje y mejorando mis habilidades en tecnologías como HTML y CSS.
 
 
+---
 
-
-
-## :man_technologist: Sobre mí:
-Hola, soy Facundo Vera y actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro en proceso de aprendizaje y mejorando mis habilidades en tecnologías como HTML y CSS.
-## :hammer_and_wrench: Lenguajes:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
- 
-
-  
-### ⚙️ &nbsp;Mis estadisticas
-
+## 🧪 Tecnologías
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Facundo-Vera&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" />
-  <br>
+  <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=9eff00">
+  <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=9eff00">
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=9eff00">
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=9eff00">
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=9eff00">
 </div>
 
-<br/>
-<br/>
-<br/>
+---
 
+## 🚀 Proyectos destacados
+
+🟢 **Nombre del Proyecto 1**  
+🔗 [Ver repositorio](https://github.com/Facundo-Vera/proyecto1)  
+📄 Breve descripción.
+
+🟢 **Nombre del Proyecto 2**  
+🔗 [Ver repositorio](https://github.com/Facundo-Vera/proyecto2)  
+📄 Breve descripción.
+
+---
+
+## 📊 Mis estadísticas
+
+<div align="center" style="background-color: #0d0d0d; padding: 20px; border-radius: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Facundo-Vera&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Vera&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+## 📬 Contacto
+
+📧 facundovera.dev@gmail.com  
+🌐 [Portfolio](https://tuportfolio.com)
+
+---
 
