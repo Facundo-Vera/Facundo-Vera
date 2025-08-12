@@ -30,7 +30,7 @@ Actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro 
 ## 🚀 Proyectos destacados
 
 🟢 **Nombre del Proyecto 1**  
-🔗 [Ver repositorio](https://github.com/Facundo-Vera/proyecto1)  
+🔗 [Ver repositorio](https://devbox-recursos.netlify.app/)  
 📄 Breve descripción.
 
 🟢 **Nombre del Proyecto 2**  
