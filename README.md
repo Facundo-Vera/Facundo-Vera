@@ -22,6 +22,7 @@ Actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro 
   <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=9eff00">
   <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=9eff00">
   <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=9eff00">
+  <img src="https://img.shields.io/badge/Bootstrap-1a1a1a?style=for-the-badge&logo=bootstrap&logoColor=9eff00">
 </div>
 
 ---
