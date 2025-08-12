@@ -27,13 +27,8 @@ Actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro 
 ## 🚀 Proyectos destacados
 
 🟢 **Nombre del Proyecto 1**  
-🔗 [Ver repositorio]((https://github.com/Facundo-Vera/DevBox))  
-📄 Breve descripción.
-
-🟢 **Nombre del Proyecto 2**  
-🔗 [Ver repositorio](https://github.com/Facundo-Vera/proyecto2)  
-📄 Breve descripción.
-
+🔗 [Ver repositorio](https://github.com/Facundo-Vera/DevBox)  
+📄 Es una plataforma que recopila recursos gratuitos útiles para programadores, diseñada para facilitar el acceso a herramientas 
 ---
 
 ## 📊 Mis estadísticas
@@ -48,9 +43,6 @@ Actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro 
 ---
 
 ## 📬 Contacto
-
 📧 facundovera.dev@gmail.com  
-🌐 [Portfolio](https://tuportfolio.com)
-
 ---
 
