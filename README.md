@@ -28,7 +28,8 @@ Actualmente estoy estudiando desarrollo web en RollingCode School. Me encuentro 
 
 🟢 **Nombre del Proyecto 1**  
 🔗 [Ver repositorio](https://github.com/Facundo-Vera/DevBox)  
-📄 Es una plataforma que recopila recursos gratuitos útiles para programadores, diseñada para facilitar el acceso a herramientas 
+
+<p>📄 Es una plataforma que recopila recursos gratuitos útiles para programadores, diseñada para facilitar el acceso a herramientas </p>
 ---
 
 ## 📊 Mis estadísticas
