@@ -10,7 +10,7 @@
 ## 🧠 Sobre mí
 
 Actualmente estoy estudiando Desarrollo Web en RollingCode School.
-Me encuentro en un proceso continuo de aprendizaje, fortaleciendo mis habilidades en HTML, CSS, Bootstrap, Git y GitHub para el control de versiones y el trabajo colaborativo. También estoy comenzando a explorar JavaScript para seguir creciendo como desarrollador frontend.
+Me encuentro en un proceso continuo de aprendizaje, fortaleciendo mis habilidades en HTML, CSS, Bootstrap, Git y GitHub para el control de versiones y el trabajo colaborativo. También estoy comenzando a explorar JavaScript para seguir creciendo como desarrollador web.
 
 
 ## 🧪 Tecnologías
